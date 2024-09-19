@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project analyzes the sales data of a pizza shop by using Microsoft Excel to uncover key insights into customer preferences, peak sales times, and the most popular pizza sizes. The goal is to help the shop optimize inventory management, enhance marketing strategies, and improve operational efficiency.
-
+This dataset taken from maven analytics website.
 ## Key Insights
 1. **Popular Pizza Sizes**:
    - Large (L) pizzas are the top-selling size, followed by Medium (M) and Small (S).
